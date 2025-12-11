@@ -30,7 +30,7 @@ I am an Electronics and Communication Engineering student and a passionate Web D
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://skillicons.dev/icons?i=tailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
@@ -75,6 +75,8 @@ I am an Electronics and Communication Engineering student and a passionate Web D
 ### 🔹 Fertilizer Dispenser 
 Tech: **ESP-32,Servo Motor ,Dc Motor,Rotating Shaft**  
 A compact automated system that spreads fertilizer on both sides of crop rows, reducing manual effort and increasing precision.
+
+---
 
 ### 🔹 **EffiTrack**  
 Tech: **HTML, CSS, JS, Firebase**  
