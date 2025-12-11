@@ -1,19 +1,11 @@
-<h1 align="center"> Gokul M</h1>
-<h3 align="center">Web Developer | Automation Enthusiast</h3>
+
 <h1 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gokul+M;Web+Developer;Automation+Enthusiast;ECE+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gokul+M" />
   </a>
 </h1>
+<h3 align="center">Web Developer | Automation Enthusiast</h3>
 
-
----
-
-## 📸 Profile
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/INSERT_YOUR_GITHUB_ID" 
-       alt="Profile Image" width="150" style="border-radius: 50%">
-</p>
 
 ---
 
@@ -26,33 +18,42 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+## 🛠️ Skills
 
-### **Programming Languages**
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![Python](https://skillicons.dev/icons?i=python)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JS](https://skillicons.dev/icons?i=javascript)
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
 
-### **Libraries & Frameworks**
-![React](https://skillicons.dev/icons?i=react)
-![OpenCV](https://skillicons.dev/icons?i=opencv)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Chart.js](https://skillicons.dev/icons?i=chartjs)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
+### Frameworks / Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=opencv" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+  <img src="https://skillicons.dev/icons?i=chartjs" />
+</p>
 
-### **Tools / Platforms**
-![GitHub](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Google Colab](https://skillicons.dev/icons?i=googlecloud)
-![n8n](https://skillicons.dev/icons?i=nodejs)
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=supabase" />
+</p>
 
-### **Databases**
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![Supabase](https://skillicons.dev/icons?i=supabase)
+### Tools / Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
 ---
 
