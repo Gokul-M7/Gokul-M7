@@ -6,7 +6,6 @@
 </h1>
 <h3 align="center">Web Developer | Automation Enthusiast</h3>
 
-
 ## 👨‍💻 About Me
 
 I am an Electronics and Communication Engineering student and a passionate Web Developer who enjoys building intelligent systems that blend software, hardware, and automation. I work on projects involving full-stack development AI-based tools, and real-time automation. I am constantly learning new technologies to strengthen my developer toolkit. I love creating solutions that solve real-world problems efficiently and I am always open to collaborating on exciting projects related to web development and automation. My goal is to grow into a full-stack engineer capable of developing smart, scalable, and impactful systems.
