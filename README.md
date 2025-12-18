@@ -47,7 +47,7 @@ I am an Electronics and Communication Engineering student and a passionate Web D
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=googlecloud" />
   <img src="https://skillicons.dev/icons?i=matlab" />
-  <img src="https://skillicons.dev/icons?i=n8n,arduino" />
+  <img src="https://skillicons.dev/icons?i=arduino" />
 
 </p>
 
