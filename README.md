@@ -23,6 +23,7 @@ I am an Electronics and Communication Engineering student and a passionate Web D
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=sql" />
 </p>
 
 ### Frameworks / Libraries
@@ -44,6 +45,8 @@ I am an Electronics and Communication Engineering student and a passionate Web D
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=googlecloud" />
+  <img src="https://skillicons.dev/icons?i=n8n" />
+  <img src="https://skillicons.dev/icons?i=Antigravity" />
 </p>
 
 ---
@@ -116,7 +119,7 @@ Upload plant images → Detect disease → Get remedies.
 - Linux Fundamentals — TCM Security  
 - Industrial IoT 4.0 — NPTEL  
 - Software Engineering Simulation — HP (Forage)  
-- GNSS & Remote Sensing — ISRO  
+- Geographical information System & Remote Sensing — ISRO  
 
 ---
 
@@ -131,7 +134,7 @@ Upload plant images → Detect disease → Get remedies.
 ---
 
 ## 🌐 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/gokul-m-aa89aa2b9) •  
-[GitHub](https://github.com/Gokul-M7) •  
-[LeetCode](https://leetcode.com/u/gokulm2005/) •  
-[HackerRank](https://hackerrank.com/profile/gokulm2005)
+
+<p align="center"> <a href="https://www.linkedin.com/in/gokul-m-aa89aa2b9"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Gokul-M7"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://leetcode.com/u/gokulm2005/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://hackerrank.com/profile/gokulm2005"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/> </a> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gokul-M7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p>
