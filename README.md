@@ -38,6 +38,7 @@ I am an Electronics and Communication Engineering student and a passionate Web D
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
 </p>
 
 ### Tools / Platforms
@@ -46,7 +47,6 @@ I am an Electronics and Communication Engineering student and a passionate Web D
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://skillicons.dev/icons?i=googlecloud" />
   <img src="https://skillicons.dev/icons?i=n8n" />
-  <img src="https://skillicons.dev/icons?i=Antigravity" />
 </p>
 
 ---
