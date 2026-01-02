@@ -127,6 +127,7 @@ Upload plant images → Detect disease → Get remedies.
 ---
 
 ## 🥇 Honors & Awards
+- Won 1st Prize **GCC-X-Shift Hackathon Organized by 6s Consulting pvt ltd**.
 - Overall 4th — **INNOVSENSE'25, KPRIET**
 - 2nd Prize — **SpectraX**
 - Top 100 Finalist — **Clash of Codes, IIT Madras**
