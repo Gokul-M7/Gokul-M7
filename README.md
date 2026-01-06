@@ -59,7 +59,7 @@
   KPR Institute of Engineering and Technology — *CGPA: 8.13*
 
 - 💻 **Minor Degree: Software Development Engineering** (2024–2027)  
-  KPRIET — *CGPA: 8.00*
+  KPRIET — *CGPA: 8.33*
 
 ---
 
