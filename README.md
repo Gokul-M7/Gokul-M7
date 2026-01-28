@@ -1,7 +1,7 @@
 <h1 align="center">
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=4F9CF9&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gokul+M" />
-  </a>
+  </a> 
 </h1>
 <h3 align="center"> MERN STACK Developer | Automation Enthusiast </h3>
 
