@@ -75,12 +75,12 @@ I specialize in building **production-grade MERN applications**, integrating **r
 📍 Dharmapuri, India | 🗓️ July 2025
 
 - Developed responsive UI for **Effi-Track**
-- Improved dashboard UX using vanilla JavaScript
+- Improved dashboard UX using JavaScript
 
 ---
 
 
-## Contact
+## Also On!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokul-m-aa89aa2b9">
