@@ -1,67 +1,165 @@
-<h1 align="center">
-  GOKUL M
-</h1>
-<h3 align="center"> MERN STACK Developer | Automation Enthusiast </h3>
+<!-- ===================== HERO SECTION ===================== -->
+<h1 align="center">🚀 GOKUL M</h1>
 
-##  About Me 
+<h3 align="center">
+MERN Stack Developer • Automation Enthusiast • AI-Driven Systems Builder
+</h3>
 
-  I am an Electronics and Communication Engineering student and a passionate Web Developer who enjoys building intelligent systems that blend software, hardware, and automation. I work on projects involving full-stack development AI-based tools, and real-time automation. I am constantly learning new technologies to strengthen my developer toolkit. I love creating solutions that solve real-world problems efficiently and I am always open to collaborating on exciting projects related to web development and automation. 
-  
-- 📫 Reach me at **gokulvm2005@gmail.com**
-
-## 🛠️ Skills
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=sql" />
+<p align="center">
+  <a href="https://gokul-m7.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:gokulvm2005@gmail.com">
+    <img src="https://img.shields.io/badge/📧 Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
-### Frameworks / Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=opencv" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
-</p>
-
-### Tools / Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=matlab" />
-  <img src="https://skillicons.dev/icons?i=arduino" />
- <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=starship&logoColor=white" />
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gokul-M7&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 📚 Education
-- 🎓 **B.E. Electronics & Communication Engineering** (2023–2027)  
-  KPR Institute of Engineering and Technology — *CGPA: 8.13*
+## 👨‍💻 About Me
 
-- 💻 **Minor Degree: Software Development Engineering** (2024–2027)  
-  KPRIET — *CGPA: 8.33*
+I’m an **Electronics & Communication Engineering undergraduate** with a strong passion for  
+**Full-Stack Development, Automation, and AI-powered systems**.
+
+I specialize in building **production-grade MERN applications**, integrating  
+**real-time systems, ML models, automation workflows**, and **computer vision** to solve real-world problems.
+
+🔹 Builder mindset → ship real products  
+🔹 Strong focus on scalability & clean architecture  
+🔹 Always open to collaboration on impactful tech projects
+
+📫 **Reach me:** `gokulvm2005@gmail.com`
+
+---
+
+## 🧠 Tech Arsenal
+
+### 🚀 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,sql" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,opencv,tailwind" />
+  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,arduino,matlab,docker,figma,postman,aws" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### 🏢 Software Developer Intern — Sonsoa Technologies Ltd  
+📍 Remote (England) | 🗓️ Jan 2026
+
+- Built frontend modules using **React.js & TypeScript**
+- Integrated **Supabase (PostgreSQL)** for authentication and real-time data
+- Contributed to **Rehab360**, a production-grade healthcare platform
+
+---
+
+### 🏢 Front-End Developer Intern — Hifi11 Technologies  
+📍 Dharmapuri, India | 🗓️ July 2025
+
+- Developed responsive UI for **Effi-Track**
+- Improved dashboard UX using vanilla JavaScript
+
+---
+
+## 🧩 Featured Projects
+
+### 🔹 HireX — AI Hiring Automation Platform  
+**Tech:** React · Node · Supabase · ML  
+- Automated hiring pipeline  
+- Reduced HR workload by **40%**
+
+---
+
+### 🔹 Rehab360 — AI Rehabilitation Platform  
+**Tech:** React · Node · Supabase · MediaPipe  
+🔗 https://rehab360.co.uk/  
+- Real-time patient motion tracking  
+- Remote recovery monitoring for **100+ patients**
+
+---
+
+### 🔹 RescueX — Autonomous Disaster Response Drone  
+**Tech:** ArduPilot · Thermal Camera · ROS  
+- Achieved **40% faster disaster response**
+- Automated survivor detection
+
+---
+
+### 🔹 Smart Fertilizer Dispenser  
+**Tech:** ESP32 · Embedded Systems  
+- Increased farming efficiency by **20%**
+
+---
+
+## 📜 Certifications
+
+- HCL | GUVI — Full Stack Development, AWS  
+- NPTEL — IoT & Industry 4.0 *(Elite + Silver)*  
+- MongoDB — Certified Associate Developer  
+- freeCodeCamp — Front-End Libraries  
+- Cisco — Networking Basics
+
+---
+
+## 🏆 Achievements
+
+🏅 1st Prize — GCC X-Shift Hackathon  
+🥈 2nd Prize — SpectraX (IEEE IES)  
+🏅 4th Prize — INNOVSENSE’25  
+⚓ Overall Runner-Up — NCC Annual Camp
+
+---
+
+## 📌 Leadership & Activities
+
+- Solved **350+ DSA problems**
+- Event Coordinator — YUVA TECHFEST’25
+- Leading Cadet — 2 TN Naval Unit NCC
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/gokul-m-aa89aa2b9"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Gokul-M7"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> <a href="https://leetcode.com/u/gokulm2005/"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/> </a> <a href="https://hackerrank.com/profile/gokulm2005"> <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokul-m-aa89aa2b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/Gokul-M7">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://leetcode.com/u/gokulm2005/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+  </a>
+  <a href="https://hackerrank.com/profile/gokulm2005">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build systems that scale. Automate what repeats.”</i>
+</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Gokul-M7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p>
