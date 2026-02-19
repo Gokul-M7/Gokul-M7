@@ -21,7 +21,7 @@ MERN Stack Developer • Automation Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## About
 
 I’m an **Electronics & Communication Engineering undergraduate** with a strong passion for  **Full-Stack Development, Automation, and AI-powered systems**.
 I specialize in building **production-grade MERN applications**, integrating **real-time systems, ML models, automation workflows**, and **computer vision** to solve real-world problems.
@@ -34,25 +34,25 @@ I specialize in building **production-grade MERN applications**, integrating **r
 
 ---
 
-## 🧠 Tech Arsenal
+## Skills
 
-### 🚀 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,sql" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,opencv,tailwind" />
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,linux,arduino,matlab,docker,figma,postman,aws" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -80,7 +80,7 @@ I specialize in building **production-grade MERN applications**, integrating **r
 ---
 
 
-## 🌐 Connect With Me
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gokul-m-aa89aa2b9">
