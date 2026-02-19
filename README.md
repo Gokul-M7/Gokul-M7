@@ -1,43 +1,5 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">
-  <svg width="500" height="70" viewBox="0 0 500 70"
-       xmlns="http://www.w3.org/2000/svg">
-
-    <!-- Text -->
-    <text x="50%" y="55%"
-          text-anchor="middle"
-          fill="#1f6feb"
-          font-size="42"
-          font-weight="bold"
-          font-family="Arial, Helvetica, sans-serif"
-          stroke="#1f6feb"
-          stroke-width="1"
-          stroke-dasharray="600"
-          stroke-dashoffset="600">
-
-      GOKUL M
-
-      <!-- Draw animation -->
-      <animate
-        attributeName="stroke-dashoffset"
-        from="600"
-        to="0"
-        dur="3s"
-        fill="freeze" />
-
-      <!-- Blink animation -->
-      <animate
-        attributeName="opacity"
-        from="1"
-        to="0.6"
-        dur="1.2s"
-        begin="3s"
-        repeatCount="indefinite" />
-    </text>
-
-  </svg>
-</h1>
-
+<h1 align="center"> GOKUL M</h1>
 
 <h3 align="center">
 MERN Stack Developer • Automation Enthusiast
@@ -61,11 +23,8 @@ MERN Stack Developer • Automation Enthusiast
 
 ## 👨‍💻 About Me
 
-I’m an **Electronics & Communication Engineering undergraduate** with a strong passion for  
-**Full-Stack Development, Automation, and AI-powered systems**.
-
-I specialize in building **production-grade MERN applications**, integrating  
-**real-time systems, ML models, automation workflows**, and **computer vision** to solve real-world problems.
+I’m an **Electronics & Communication Engineering undergraduate** with a strong passion for  **Full-Stack Development, Automation, and AI-powered systems**.
+I specialize in building **production-grade MERN applications**, integrating **real-time systems, ML models, automation workflows**, and **computer vision** to solve real-world problems.
 
 🔹 Builder mindset → ship real products  
 🔹 Strong focus on scalability & clean architecture  
