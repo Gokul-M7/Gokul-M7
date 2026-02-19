@@ -1,8 +1,39 @@
 <!-- ===================== HERO SECTION ===================== -->
-<h1 align="center">🚀 GOKUL M</h1>
+<h1 align="center">
+  <svg width="500" height="70" viewBox="0 0 500 70">
+    <style>
+      .text {
+        fill: none;
+        stroke: #1f6feb;
+        stroke-width: 2px;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: draw 3s ease-in-out forwards, blink 1.2s infinite alternate;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 42px;
+        font-weight: bold;
+      }
+
+      @keyframes draw {
+        to {
+          stroke-dashoffset: 0;
+        }
+      }
+
+      @keyframes blink {
+        0% { opacity: 1; }
+        100% { opacity: 0.7; }
+      }
+    </style>
+
+    <text x="50%" y="60%" text-anchor="middle" class="text">
+      GOKUL M
+    </text>
+  </svg>
+</h1>
 
 <h3 align="center">
-MERN Stack Developer • Automation Enthusiast • AI-Driven Systems Builder
+MERN Stack Developer • Automation Enthusiast
 </h3>
 
 <p align="center">
@@ -82,62 +113,6 @@ I specialize in building **production-grade MERN applications**, integrating
 
 ---
 
-## 🧩 Featured Projects
-
-### 🔹 HireX — AI Hiring Automation Platform  
-**Tech:** React · Node · Supabase · ML  
-- Automated hiring pipeline  
-- Reduced HR workload by **40%**
-
----
-
-### 🔹 Rehab360 — AI Rehabilitation Platform  
-**Tech:** React · Node · Supabase · MediaPipe  
-🔗 https://rehab360.co.uk/  
-- Real-time patient motion tracking  
-- Remote recovery monitoring for **100+ patients**
-
----
-
-### 🔹 RescueX — Autonomous Disaster Response Drone  
-**Tech:** ArduPilot · Thermal Camera · ROS  
-- Achieved **40% faster disaster response**
-- Automated survivor detection
-
----
-
-### 🔹 Smart Fertilizer Dispenser  
-**Tech:** ESP32 · Embedded Systems  
-- Increased farming efficiency by **20%**
-
----
-
-## 📜 Certifications
-
-- HCL | GUVI — Full Stack Development, AWS  
-- NPTEL — IoT & Industry 4.0 *(Elite + Silver)*  
-- MongoDB — Certified Associate Developer  
-- freeCodeCamp — Front-End Libraries  
-- Cisco — Networking Basics
-
----
-
-## 🏆 Achievements
-
-🏅 1st Prize — GCC X-Shift Hackathon  
-🥈 2nd Prize — SpectraX (IEEE IES)  
-🏅 4th Prize — INNOVSENSE’25  
-⚓ Overall Runner-Up — NCC Annual Camp
-
----
-
-## 📌 Leadership & Activities
-
-- Solved **350+ DSA problems**
-- Event Coordinator — YUVA TECHFEST’25
-- Leading Cadet — 2 TN Naval Unit NCC
-
----
 
 ## 🌐 Connect With Me
 
@@ -161,5 +136,3 @@ I specialize in building **production-grade MERN applications**, integrating
 <p align="center">
   <i>“Build systems that scale. Automate what repeats.”</i>
 </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Gokul-M7&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/> </p>
