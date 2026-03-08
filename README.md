@@ -118,7 +118,7 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-M7&theme=github_dark" width="100%"/>
+<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
