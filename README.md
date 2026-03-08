@@ -17,8 +17,8 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://gokul-m7.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📬_EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokulvm2005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://gokul-m7.github.io/Portfolio/)
+[![Email](https://img.shields.io/badge/EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokulvm2005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-m-aa89aa2b9)
 [![GitHub](https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Gokul-M7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gokulm2005/)
@@ -42,14 +42,15 @@
 
 I specialize in crafting **production-grade MERN applications**, weaving together **real-time systems**, **AI/ML integrations**, **automation pipelines**, and **computer vision** to solve problems that actually matter.
 
-- 🔥 Full-stack MERN · Automation · AI-powered systems
-- 🧠 Computer vision · ML models · Real-time data pipelines
-- 🤝 Open to collaboration on ambitious, high-impact tech
-- ⚡ Obsessed with scalability, clean architecture & DX
-- 📫 `gokulvm2005@gmail.com`
+- Full-stack MERN · Automation · AI-powered systems
+- Computer vision · ML models · Real-time data pipelines
+- Open to collaboration on ambitious, high-impact tech
+- Contact : `gokulvm2005@gmail.com`
 
 </td>
 <td valign="top" width="40%" align="center">
+
+
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260"/>
 
@@ -90,7 +91,7 @@ Contributed to **Rehab360**, a live healthcare platform. Built React.js + TypeSc
 <td width="50%" valign="top">
 
 **Front-End Developer Intern — Hifi11 Technologies**
-📍 Dharmapuri, India &nbsp;·&nbsp; `Jul 2025`
+ Dharmapuri, India &nbsp;·&nbsp; `Jul 2025`
 
 Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered a fully responsive, pixel-perfect interface with clean JavaScript interactions and improved UX.
 
