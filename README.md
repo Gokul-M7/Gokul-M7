@@ -18,9 +18,9 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/⚡_PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://gokul-m7.github.io/Portfolio/)
-[![Email](https://img.shields.io/badge/📬_EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokulvm2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gokul-m-aa89aa2b9)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Gokul-M7)
+[![Email](https://img.shields.io/badge/📬_EMAIL-1a1a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:gokulvm2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-m-aa89aa2b9)
+[![GitHub](https://img.shields.io/badge/GITHUB-1a1a2e?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Gokul-M7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gokulm2005/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/profile/gokulm2005)
 
@@ -61,40 +61,43 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 
 ## What I Build With
 
-<br/>
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
 
 <br/><br/>
 
 **Frontend**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 
 <br/><br/>
 
 **Backend & APIs**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
 
 <br/><br/>
 
 **Databases**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 
-<br/><br/>
+</td>
+<td valign="top" width="50%">
 
 **Cloud & DevOps**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,docker,github,linux" />
 
 <br/><br/>
 
 **AI & Automation**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=opencv" />
 &nbsp;<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" height="48"/>
 &nbsp;<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="48"/>
@@ -102,8 +105,12 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 <br/><br/>
 
 **Tools & Platforms**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab" />
+
+</td>
+</tr>
+</table>
 
 ---
 
