@@ -105,21 +105,9 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gokul-M7&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-M7&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=c9d1d9"/>
-
-<br/><br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul-M7&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
 
@@ -131,8 +119,8 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 while (alive) {
     eat();
     sleep();
-    code();        // ← this one hits different
-    automate();    // so I can do more of ↑
+      code();        // ← this one hits different
+      automate();    // so I can do more of ↑
     repeat();
 }
 ```
