@@ -106,10 +106,10 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul-M7&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
-
+<div align="center">
 *"Build systems that scale. Automate what repeats."*
 
 <br/>
