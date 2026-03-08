@@ -63,40 +63,13 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="150"><sub><b>LANGUAGES</b></sub></td>
-    <td align="center" width="150"><sub><b>FRONTEND</b></sub></td>
-    <td align="center" width="150"><sub><b>BACKEND & APIs</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java,javascript,python,c&perline=2" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=2" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=2" /></td>
-  </tr>
-  <tr><td colspan="3"><br/></td></tr>
-  <tr>
-    <td align="center"><sub><b>DATABASES</b></sub></td>
-    <td align="center"><sub><b>CLOUD & DEVOPS</b></sub></td>
-    <td align="center"><sub><b>TOOLS</b></sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=2" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,github,linux&perline=2" /></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab&perline=2" /></td>
-  </tr>
-  <tr><td colspan="3"><br/></td></tr>
-  <tr>
-    <td colspan="3" align="center"><sub><b>AI & AUTOMATION</b></sub></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" />&nbsp;
-      <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" height="44"/>&nbsp;
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="44"/>
-    </td>
-  </tr>
-</table>
+| LANGUAGES | FRONTEND | BACKEND & APIs | DATABASES |
+|:---------:|:--------:|:--------------:|:---------:|
+| <img src="https://skillicons.dev/icons?i=java,javascript,python,c&perline=4" /> | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=4" /> | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=4" /> |
+
+| CLOUD & DEVOPS | AI & AUTOMATION | TOOLS |
+|:--------------:|:---------------:|:-----:|
+| <img src="https://skillicons.dev/icons?i=aws,docker,github,linux&perline=4" /> | <img src="https://skillicons.dev/icons?i=opencv&perline=4" /> <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" height="44"/> <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="44"/> | <img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab&perline=4" /> |
 
 </div>
 
@@ -141,11 +114,11 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
 
 <br/>
 
-![3D Contribution](https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-green.svg)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gokul-M7&theme=github_dark" width="100%"/>
 
 </div>
 
