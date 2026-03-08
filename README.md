@@ -51,7 +51,6 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 <td valign="top" width="40%" align="center">
 
 
-
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="260"/>
 
 </td>
@@ -110,20 +109,6 @@ Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered 
 <img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 
 </div>
-
----
-
-<div align="center">
-
-```
-while (alive) {
-    eat();
-    sleep();
-      code();        // ← this one hits different
-      automate();    // so I can do more of ↑
-    repeat();
-}
-```
 
 *"Build systems that scale. Automate what repeats."*
 
