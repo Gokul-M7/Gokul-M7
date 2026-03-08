@@ -61,36 +61,44 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 
 ## What I Build With
 
+<div align="center">
+
 <table>
   <tr>
-    <td align="center" width="130"><sub><b>LANGUAGES</b></sub></td>
-    <td align="center" width="130"><sub><b>FRONTEND</b></sub></td>
-    <td align="center" width="130"><sub><b>BACKEND & APIs</b></sub></td>
-    <td align="center" width="130"><sub><b>DATABASES</b></sub></td>
+    <td align="center" width="150"><sub><b>LANGUAGES</b></sub></td>
+    <td align="center" width="150"><sub><b>FRONTEND</b></sub></td>
+    <td align="center" width="150"><sub><b>BACKEND & APIs</b></sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=java,javascript,python,c&perline=2" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=2" /></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=2" /></td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td align="center"><sub><b>DATABASES</b></sub></td>
+    <td align="center"><sub><b>CLOUD & DEVOPS</b></sub></td>
+    <td align="center"><sub><b>TOOLS</b></sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=2" /></td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><sub><b>CLOUD & DEVOPS</b></sub></td>
-    <td align="center" width="130"><sub><b>AI & AUTOMATION</b></sub></td>
-    <td align="center" width="130"><sub><b>TOOLS</b></sub></td>
-    <td align="center" width="130"><sub><b>&nbsp;</b></sub></td>
-  </tr>
-  <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,github,linux&perline=2" /></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv&perline=2" /><br/>
-      <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-    </td>
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab&perline=2" /></td>
-    <td align="center"></td>
+  </tr>
+  <tr><td colspan="3"><br/></td></tr>
+  <tr>
+    <td colspan="3" align="center"><sub><b>AI & AUTOMATION</b></sub></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img src="https://skillicons.dev/icons?i=opencv" />&nbsp;
+      <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" height="44"/>&nbsp;
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="44"/>
+    </td>
   </tr>
 </table>
+
+</div>
 
 ---
 
@@ -100,28 +108,18 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 <tr>
 <td width="50%" valign="top">
 
-### Software Developer Intern
-**Sonsoa Technologies Ltd** &nbsp;·&nbsp; 🇬🇧 Remote, England
-`January 2026`
+**Software Developer Intern — Sonsoa Technologies Ltd**
+🇬🇧 Remote, England &nbsp;·&nbsp; `Jan 2026`
 
-Worked on **Rehab360** — a production-grade healthcare platform used by real patients and clinicians. Took ownership of frontend modules end-to-end, from component architecture to live data integration.
-
-- Engineered UI modules with **React.js & TypeScript**, focusing on performance and maintainability
-- Wired up **Supabase (PostgreSQL)** for real-time data sync and role-based authentication
-- Delivered features that went live in a production healthcare environment
+Contributed to **Rehab360**, a live healthcare platform. Built React.js + TypeScript frontend modules, integrated Supabase for real-time data and auth, and shipped production-ready features used by real clinicians.
 
 </td>
 <td width="50%" valign="top">
 
-### Front-End Developer Intern
-**Hifi11 Technologies** &nbsp;·&nbsp; 📍 Dharmapuri, India
-`July 2025`
+**Front-End Developer Intern — Hifi11 Technologies**
+📍 Dharmapuri, India &nbsp;·&nbsp; `Jul 2025`
 
-Brought **Effi-Track** to life — a workflow dashboard built for efficiency, not just aesthetics. Focused heavily on making the UI feel intuitive and responsive across all devices.
-
-- Built a fully responsive, pixel-perfect dashboard UI from design specs
-- Improved user experience with clean JavaScript interactions and optimized layouts
-- Collaborated closely with the product team on iterative design feedback
+Developed the UI for **Effi-Track**, a workflow efficiency dashboard. Delivered a fully responsive, pixel-perfect interface with clean JavaScript interactions and improved UX.
 
 </td>
 </tr>
@@ -143,7 +141,11 @@ Brought **Effi-Track** to life — a workflow dashboard built for efficiency, no
 
 <br/>
 
-![github-contribution-grid-snake-dark](https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+
+<br/>
+
+![3D Contribution](https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
