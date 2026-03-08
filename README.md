@@ -62,61 +62,39 @@ I specialize in crafting **production-grade MERN applications**, weaving togethe
 ## What I Build With
 
 <table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
-
-<br/><br/>
-
-**Backend & APIs**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,github,linux" />
-
-<br/><br/>
-
-**AI & Automation**
-<br/>
-<img src="https://skillicons.dev/icons?i=opencv" />
-&nbsp;<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" height="48"/>
-&nbsp;<img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" height="48"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab" />
-
-</td>
-</tr>
+  <tr>
+    <td align="center" width="130"><sub><b>LANGUAGES</b></sub></td>
+    <td align="center" width="130"><sub><b>FRONTEND</b></sub></td>
+    <td align="center" width="130"><sub><b>BACKEND & APIs</b></sub></td>
+    <td align="center" width="130"><sub><b>DATABASES</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java,javascript,python,c&perline=2" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=2" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postman&perline=2" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase&perline=2" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><sub><b>CLOUD & DEVOPS</b></sub></td>
+    <td align="center" width="130"><sub><b>AI & AUTOMATION</b></sub></td>
+    <td align="center" width="130"><sub><b>TOOLS</b></sub></td>
+    <td align="center" width="130"><sub><b>&nbsp;</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,docker,github,linux&perline=2" /></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=opencv&perline=2" /><br/>
+      <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,arduino,matlab&perline=2" /></td>
+    <td align="center"></td>
+  </tr>
 </table>
 
 ---
 
 ## Where I've Worked
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -162,6 +140,10 @@ Brought **Effi-Track** to life — a workflow dashboard built for efficiency, no
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gokul-M7&bg_color=0d1117&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![github-contribution-grid-snake-dark](https://raw.githubusercontent.com/Gokul-M7/Gokul-M7/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
